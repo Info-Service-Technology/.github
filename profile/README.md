@@ -63,20 +63,6 @@ saúde é o objetivo.**
 
 ---
 
-## 🤝 Parcerias e colaboração
-
-A Info Service Technology busca colaboração com:
-
-- instituições e redes de saúde;
-- hospitais e clínicas;
-- municípios e órgãos públicos;
-- universidades e centros de pesquisa;
-- empresas de tecnologia;
-- programas de inovação;
-- startups e parceiros estratégicos.
-
----
-
 ## 🌐 Info Service Technology
 
 **Health Data Insights — Uma gestão mais inteligente para uma saúde mais preventiva.**
